@@ -1,0 +1,20 @@
+* Note: The program uses the vertices from 0 to n - 1
+
+> Input
+    - Are given 3 data files in the format:
+        . G-<Number of Vertices>-<Number of Edges>.txt
+
+> Compiling the code:
+    $ gcc dfs.c -o dfs
+
+> Executing:
+    $ dfs.exe <file_name>
+    - Ex: dfs.exe G-6-6.txt
+
+> Output
+    - The output consists of the adjacency list follow by:
+        . For each dfs iteration:
+            > Current Discovery list
+            > Current Closing list
+            > Current Predecessors list
+            > Current Colors list

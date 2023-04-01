@@ -1,0 +1,23 @@
+* Note: The program uses the vertices from 0 to n - 1
+
+> Input
+    - Are given 3 data files in the format:
+        . G-<Number of Vertices>-<Number of Edges>.txt
+
+> Compiling the code:
+    $ gcc bfs.c -o bfs
+
+> Executing:
+    $ bfs.exe <file_name>
+    - Ex: bfs.exe G-6-6.txt
+
+> Output
+    - The output consists of the adjacency list follow by:
+        . For each bfs iteration:
+            > Current Queue 
+            > Current Colors list
+            > Current Distances list
+            > Current Predecessors list
+
+
+
