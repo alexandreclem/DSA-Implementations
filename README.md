@@ -1,2 +1,2 @@
 ## DSA Implementations
-Every directory has a file **how-to-use.txt** that explains briefly about the algorithm/ds as well as how to run the code.
+Each directory has a **how-to-use.txt** file that briefly explains about the /ds algorithm and also how to run the code.

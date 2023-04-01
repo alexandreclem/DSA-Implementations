@@ -1,4 +1,4 @@
-* Note: The program uses the vertices from 0 to n - 1
+> Depth First Search in C
 
 > Input
     - Are given 3 data files in the format:
@@ -18,3 +18,5 @@
             > Current Closing list
             > Current Predecessors list
             > Current Colors list
+
+* Note: The program uses the vertices from 0 to n - 1
